@@ -19,6 +19,8 @@
 <li><b>AmbientSounds</b> for better ambient sounds.</li>
 <li><b>AppleSkin</b> for more information for food.</li>
 <li><b>Bobby</b> for more view distance and smoother gameplay.</li>
+<li><b>Controlling</b> to make the Key-Bindings settings clearer.</li>
+<li><b>Entity Culling</b> uses async path-tracing to optimize game performance.</li>
 <li><b>Iris Shaders</b> to use shaders.</li>
 <li><b>Jade 🔍</b> for HUD information.</li>
 <li><b>Lithium</b> for smoother gameplay.</li>
@@ -40,4 +42,5 @@
 <li>CreativeCore</li>
 <li>Fabric API</li>
 <li>Forge Config API Port</li>
+<li>Searchables</li>
 </ul>
