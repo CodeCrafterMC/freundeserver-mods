@@ -19,10 +19,12 @@
 <li><b>AmbientSounds</b> for better ambient sounds.</li>
 <li><b>AppleSkin</b> for more information for food.</li>
 <li><b>Bobby</b> for more view distance and smoother gameplay.</li>
+<li><b>Cat Eyes - Night Vision Toggle Mod</b> for Night Vision.</li>
 <li><b>Controlling</b> to make the Key-Bindings settings clearer.</li>
 <li><b>Entity Culling</b> uses async path-tracing to optimize game performance.</li>
 <li><b>Iris Shaders</b> to use shaders.</li>
 <li><b>Jade 🔍</b> for HUD information.</li>
+<lI><b>Light Overlay</b> to see if you have lit well.</li>
 <li><b>Lithium</b> for smoother gameplay.</li>
 <li><b>Mod Menu</b> to change settings of the installed mods.</li>
 <li><b>Mouse Wheelie</b> for better item handling.</li>
@@ -43,4 +45,26 @@
 <li>Fabric API</li>
 <li>Forge Config API Port</li>
 <li>Searchables</li>
+</ul>
+
+<h3>Coming soon...</h3>
+<ul>
+<li>Gravestons</li>
+</ul>
+
+<h2>Information for server owners</h2>
+<p>If you host your own server, you will need to install some mods on it. To install these mods, download the <i>.zip</i> file of the version you need and unzip it. Now copy the <i>mods</i> folder into your server directory (if you are asked whether existing files should be replaced or skipped, select replace).</p>
+<p>Here is a list of the included server mods:</p>
+<ul>
+<li><b>Clumps</b> that xp stacks together.</li>
+<li><b>Jade 🔍</b> for HUD information.</li>
+<li><b>Lithium</b> to optimize the servers performance.</li>
+<li><b>Open Parties and Claims</b> for claiming and forceloading of chunks.</li>
+<li><b>Simple Voice Chat</b> to chat with your friends without any extra application. (Check mod page for installation on servers)</li>
+</ul>
+
+<h3>Library mods</h3>
+<ul>
+<li>Fabric API</li>
+<li>Forge Config API Port</li>
 </ul>
